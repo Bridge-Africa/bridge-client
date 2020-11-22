@@ -1,0 +1,111 @@
+{
+  "button": {
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "confirm": "Confirm",
+    "login": "Login",
+    "sign_in": "Sign In",
+    "ok": "Okay",
+    "message": "Message",
+    "close": "Close",
+    "secure": "Stay Secured",
+    "understood": "I understand",
+    "no": "Noooo",
+    "archive": "Archive",
+    "restore": "Restore",
+    "delete": "Delete",
+    "edit": "Edit",
+    "explore": "Explore",
+    "detail": "Details",
+    "proceed": "Proceed",
+    "connection": "Try connecting",
+    "history": "View History"
+  },
+  "login": {
+    "button": "Login",
+    "error": {
+      "message": "Invalid username or password",
+      "server": "Unable to connect to server. Please ensure that the server or database is running"
+    },
+    "expired": {
+      "message": "Please enter your account password (username: {0})",
+      "notify": "Please, login again to continue working",
+      "notify_title": "Session expired",
+      "title": "Provide your password"
+    },
+    "password": "Password",
+    "title": "Login",
+    "username": "Username",
+    "email": "E-mail",
+    "password_confirmation": "Password Confirmation",
+    "welcome": "Welcome back, {0}",
+    "register": "Create Account",
+    "name": "Full name"
+  },
+  "status": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "error": "Error",
+    "info": "Info",
+    "ok": "OK",
+    "success": "Success",
+    "validation": "Validation Error",
+    "warn": "Warning",
+    "warning": "Warning",
+    "message": "Message",
+    "active": "Active",
+    "inactive": "Inactive",
+    "server": "Server Not Reachable",
+    "database": "Database Error"
+  },
+  "message": {
+    "beginning": "Beginning of time",
+    "server": "The server was unreachable. Please ensure that the necessary servers are running. Contact the software developers with this error if it persist",
+    "database": "Unable to reach [Database Server]!",
+    "loading": "Loading...",
+    "registered": "Account Created Successfully. You can now login.",
+    "hero_title": "Bridge Africa is the easiest place to create websites, access directories, and network with and without the internet.",
+    "hero_subtitle": "We operate a 3 in 1 software a service platform, that helps people create websites, access directories, and network. The best part is that the site works online and offline through SMS."
+  },
+  "article": {
+    "name": "Articles",
+    "form": {
+      "name": "Article Name",
+      "description": "Description",
+      "price": "Unit Price",
+      "image": "Article Image"
+    },
+    "button": {
+      "add": "Add Article",
+      "all": "All Articles",
+      "create": "Create Article",
+      "trash": "Trash",
+      "update": "Update Article",
+      "edit": "Edit Article"
+    },
+    "message": {
+      "created": "Articles added successfully",
+      "trashed": "Article successfully moved to trash",
+      "updated": "Article: `{name}` updated successfully",
+      "destroyed": "Article permanently deleted",
+      "restored": "Article: `{name}` restored successfully"
+    },
+    "confirm": {
+      "trash": "Move article ({name}) to trash. Are you sure?",
+      "destroy": "Permanently destroy article! Are you sure about this?",
+      "restore": "Restore article! Are you sure?"
+    },
+    "title": {
+      "edit": "Edit Article: {name}",
+      "view": "Explore Article: {name}",
+      "created_on": "Created On "
+    }
+  },
+  "tpl": {
+    "name": "Tpl",
+    "button": {},
+    "message": {},
+    "confirm": {},
+    "title": {}
+  }
+}

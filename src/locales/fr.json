@@ -1,0 +1,111 @@
+{
+  "button": {
+    "cancel": "Annuler",
+    "continue": "Continuer",
+    "confirm": "Confirmer",
+    "login": "Connectez-vous",
+    "sign_in": "Se connecter",
+    "ok": "d'accord",
+    "message": "Message",
+    "close": "Proche",
+    "secure": "Rester sécurisé",
+    "understood": "Je comprends",
+    "no": "non",
+    "archive": "Archive",
+    "restore": "Restaurer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "explore": "Explorer",
+    "detail": "Détails",
+    "proceed": "Procéder",
+    "connection": "Essayez de vous connecter",
+    "history": "Historique"
+  },
+  "login": {
+    "button": "connectez-vous",
+    "error": {
+      "message": "Nom d’utilisateur ou mot de passe non valide",
+      "server": "Impossible de se connecter au serveur. S’il vous plaît assurez-vous que le serveur ou la base de données est en cours d’exécution"
+    },
+    "expired": {
+      "message": "Entrez votre mot de passe de compte (nom d’utilisateur : {0})",
+      "notify": "S’il vous plaît, connectez-vous à nouveau pour continuer à travailler",
+      "notify_title": "Session expirée",
+      "title": "Fournissez votre mot de passe"
+    },
+    "password": "Mot de passe",
+    "title": "Connectez-vous",
+    "username": "Nom d'utilisateur",
+    "email": "E-mail",
+    "password_confirmation": "Confirmation mot de passe",
+    "welcome": "Bienvenue, {0}",
+    "register": "Créer un compte",
+    "name": "Nom complet"
+  },
+  "status": {
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "error": "Erreur",
+    "info": "Info",
+    "ok": "D'accord",
+    "success": "Succès",
+    "validation": "Erreur de validation",
+    "warn": "Avertissement",
+    "warning": "Avertissement",
+    "message": "Message",
+    "active": "Active",
+    "inactive": "Inactif",
+    "server": "Serveur non accessible",
+    "database": "Erreur de base de données"
+  },
+  "message": {
+    "beginning": "Début des temps",
+    "server": "Le serveur était inaccessible. Veuillez vous assurer que les serveurs nécessaires sont en cours d’exécution. Contactez les développeurs de logiciels avec cette erreur si elle persiste",
+    "database": "Impossible d’atteindre [Database Server]!",
+    "loading": "Chargement",
+    "registered": "Compte créé avec succès. Vous pouvez maintenant vous connecter.",
+    "hero_title": "Bridge Africa est l'endroit le plus simple pour créer des sites Web, accéder aux annuaires et réseauter avec et sans Internet.",
+    "hero_subtitle": "Nous exploitons un logiciel 3 en 1 une plate-forme de service, qui aide les gens à créer des sites Web, accéder aux répertoires et au réseau. La meilleure partie est que le site fonctionne en ligne et hors ligne via SMS."
+  },
+  "article": {
+    "name": "Des produits",
+    "form": {
+      "name": "Nom d'article",
+      "description": "Description",
+      "price": "Prix unitaire",
+      "image": "Image de l'article"
+    },
+    "button": {
+      "add": "Ajouter un article",
+      "all": "Tous les articles",
+      "create": "Créer un article",
+      "trash": "Poubelle",
+      "update": "Mettre à jour l'article",
+      "edit": "Modifier l'article"
+    },
+    "message": {
+      "created": "Articles ajoutés avec succès",
+      "trashed": "L'article a bien été déplacé vers la corbeille",
+      "updated": "Article: «{name}» mis à jour avec succès",
+      "destroyed": "Article supprimé définitivement",
+      "restored": "Article: `{name}` a été restauré avec succès"
+    },
+    "confirm": {
+      "trash": "Déplacez l'article ({name}) dans la corbeille. Êtes-vous sûr?",
+      "destroy": "Détruisez définitivement l'article! Es-tu sûr de ça?",
+      "restore": "Restaurer l'article! Êtes-vous sûr?"
+    },
+    "title": {
+      "edit": "Modifier l'article: {name}",
+      "view": "Explorer l'article: {name}",
+      "created_on": "Créé sur "
+    }
+  },
+  "tpl": {
+    "name": "Tpl",
+    "button": "{}",
+    "message": "{}",
+    "confirm": "{}",
+    "title": "{}"
+  }
+}
